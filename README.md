@@ -89,6 +89,7 @@ Contains features such as:
  ┃ ┣ house Prediction Data Set.csv
  ┃ ┗ cleaned_house_prediction_data.csv
  ┣ 📂 Notebook
+ ┣ ┣ Task2 (Exploratory Data Analysis(EDA)).html
  ┃ ┗ Task2 (Exploratory Data Analysis(EDA)).ipynb
  ┣ 📂 Image
  ┃ ┗ Project_image.jpeg
