@@ -1,5 +1,4 @@
 # 📊 Housing Data Exploratory Data Analysis (EDA)  
-### Task 2(Level 1) – Codveda Data Analytics Internship
 
 --------------------------------------------------------------
 
